@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone X1",
+    "category": "Electronics",
+    "stock": 50
+  },
+  {
+    "id": "2",
+    "name": "Laptop Pro 15",
+    "category": "Electronics",
+    "stock": 30
+  },
+  {
+    "id": "3",
+    "name": "Smartwatch G4",
+    "category": "Wearables",
+    "stock": 100
+  },
+  {
+    "id": "4",
+    "name": "Wireless Earbuds X",
+    "category": "Audio",
+    "stock": 200
+  },
+  {
+    "id": "5",
+    "name": "Tablet Z10",
+    "category": "Tablets",
+    "stock": 75
+  },
+  {
+    "id": "6",
+    "name": "Gaming Console X",
+    "category": "Gaming",
+    "stock": 40
+  },
+  {
+    "id": "7",
+    "name": "Digital Camera Pro",
+    "category": "Cameras",
+    "stock": 20
+  },
+  {
+    "id": "8",
+    "name": "Smart TV 55-inch",
+    "category": "Home Entertainment",
+    "stock": 25
+  },
+  {
+    "id": "9",
+    "name": "Wireless Charger",
+    "category": "Accessories",
+    "stock": 300
+  },
+  {
+    "id": "10",
+    "name": "Bluetooth Speaker",
+    "category": "Audio",
+    "stock": 150
+  }
+]

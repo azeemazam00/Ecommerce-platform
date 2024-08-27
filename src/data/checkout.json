@@ -1,0 +1,69 @@
+[
+    {
+      "orderId": "1001",
+      "customerName": "John Doe",
+      "totalAmount": 1859.97,
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 2,
+          "price": 129.99
+        },
+        {
+          "productId": "3",
+          "quantity": 1,
+          "price": 1499.99
+        },
+        {
+          "productId": "5",
+          "quantity": 1,
+          "price": 89.99
+        }
+      ],
+      "orderDate": "2024-08-24",
+      "status": "Shipped"
+    },
+    {
+      "orderId": "1002",
+      "customerName": "Jane Smith",
+      "totalAmount": 699.99,
+      "items": [
+        {
+          "productId": "1",
+          "quantity": 1,
+          "price": 699.99
+        }
+      ],
+      "orderDate": "2024-08-23",
+      "status": "Delivered"
+    },
+    {
+      "orderId": "1003",
+      "customerName": "Alice Johnson",
+      "totalAmount": 349.99,
+      "items": [
+        {
+          "productId": "4",
+          "quantity": 1,
+          "price": 399.99
+        }
+      ],
+      "orderDate": "2024-08-22",
+      "status": "Processing"
+    },
+    {
+      "orderId": "1004",
+      "customerName": "Bob Brown",
+      "totalAmount": 269.97,
+      "items": [
+        {
+          "productId": "5",
+          "quantity": 2,
+          "price": 89.99
+        }
+      ],
+      "orderDate": "2024-08-21",
+      "status": "Delivered"
+    }
+  ]
+  

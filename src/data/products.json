@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Smartphone X1",
+    "price": 699.99,
+    "description": "A high-end smartphone with a sleek design and powerful features.",
+    "image": "img/3.jpg",
+    "category": "Electronics",
+    "options": ["64GB", "128GB", "256GB"]
+  },
+  {
+    "id": "2",
+    "name": "Laptop Pro 15",
+    "price": 1299.99,
+    "description": "A powerful laptop with a 15-inch display and high performance.",
+    "image": "img/1.jpeg",
+    "category": "Electronics",
+    "options": ["256GB SSD", "512GB SSD", "1TB SSD"]
+  },
+  {
+    "id": "3",
+    "name": "Smartwatch G4",
+    "price": 299.99,
+    "description": "A stylish smartwatch with fitness tracking and notifications.",
+    "image": "img/4.jpeg",
+    "category": "Wearables",
+    "options": ["Black", "Silver", "Gold"]
+  },
+  {
+    "id": "4",
+    "name": "Wireless Earbuds X",
+    "price": 149.99,
+    "description": "Compact and comfortable earbuds with high-quality sound.",
+    "image": "img/2.jpeg",
+    "category": "Audio",
+    "options": ["Black", "White"]
+  },
+  {
+    "id": "5",
+    "name": "Tablet Z10",
+    "price": 499.99,
+    "description": "A versatile tablet with a 10-inch screen, ideal for entertainment and work.",
+    "image": "img/5.jpeg",
+    "category": "Tablets",
+    "options": ["32GB", "64GB", "128GB"]
+  },
+  {
+    "id": "6",
+    "name": "Gaming Console X",
+    "price": 399.99,
+    "description": "Next-gen gaming console with 4K support and a wide range of games.",
+    "image": "img/6.jpeg",
+    "category": "Gaming",
+    "options": ["Standard", "Deluxe", "Ultimate"]
+  },
+  {
+    "id": "7",
+    "name": "Digital Camera Pro",
+    "price": 899.99,
+    "description": "Professional-grade digital camera with 24MP resolution and 4K video recording.",
+    "image": "img/7.jpeg",
+    "category": "Cameras",
+    "options": ["Body Only", "With 18-55mm Lens", "With 24-70mm Lens"]
+  },
+  {
+    "id": "8",
+    "name": "Smart TV 55-inch",
+    "price": 799.99,
+    "description": "4K Ultra HD Smart TV with built-in streaming services.",
+    "image": "img/8.jpeg",
+    "category": "Home Entertainment",
+    "options": ["55-inch", "65-inch", "75-inch"]
+  },
+  {
+    "id": "9",
+    "name": "Wireless Charger",
+    "price": 49.99,
+    "description": "Fast wireless charger compatible with all Qi-enabled devices.",
+    "image": "img/9.jpeg",
+    "category": "Accessories",
+    "options": ["Black", "White"]
+  },
+  {
+    "id": "10",
+    "name": "Bluetooth Speaker",
+    "price": 99.99,
+    "description": "Portable Bluetooth speaker with powerful bass and long battery life.",
+    "image": "img/10.jpeg",
+    "category": "Audio",
+    "options": ["Black", "Blue", "Red"]
+  }
+]
